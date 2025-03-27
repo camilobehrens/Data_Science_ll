@@ -1,0 +1,2 @@
+Para activar el venv en mac:
+source /Users/camilobehrens/miniconda3/bin/activate indices
