@@ -1,0 +1,9 @@
+En los siguientes notebooks se realizarán las actividades prácticas del programa.
+Las datos utilizados serán los extraidos del Pattern Matching de Arbimon, proyecto de 3 días.
+
+Objetivo del proyecto:
+* Evaluar las variaciones temporales (72h) y espaciales(21 sitios) de las vocalizaciones de aves.
+* Existe una correlación temporal entre los sitios?
+* Existe una correlación espacial entre los sitios?
+* Variable respuesta, dependiente --> Número de vocalizaciones
+* Variables predictora, independiente --> sitios, horas.
