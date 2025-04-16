@@ -3,7 +3,8 @@ Las datos utilizados serán los extraidos del Pattern Matching de Arbimon, proye
 
 Objetivo del proyecto:
 * Evaluar las variaciones temporales (72h) y espaciales(21 sitios) de las vocalizaciones de aves.
-* Existe una correlación temporal entre los sitios?
-* Existe una correlación espacial entre los sitios?
+* Existe una correlación temporal entre los sitios? --> correlación de las series temporales, promedio y SD de estas correlaciones
+* Existe una correlación espacial entre los sitios? --> test de mantel matriz de similistud Time Warping vs Matriz geográfica.
+
 * Variable respuesta, dependiente --> Número de vocalizaciones
 * Variables predictora, independiente --> sitios, horas.
