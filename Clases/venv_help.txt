@@ -1,2 +1,5 @@
 Para activar el venv en mac:
 source /Users/camilobehrens/miniconda3/bin/activate indices
+
+Para activar venv en windows:
+nombre_venv\scripts\activate
